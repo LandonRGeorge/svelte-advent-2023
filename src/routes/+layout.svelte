@@ -6,7 +6,7 @@
     <h2>
         <a href="/">Advent of Svelte 2023</a>
     </h2>
-    <a href="https://advent.sveltesociety.dev/#challenges" target="_blank"
+    <a href="https://advent.sveltesociety.dev" target="_blank"
         >Challenge Site</a
     >
 </nav>

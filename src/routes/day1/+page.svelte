@@ -19,6 +19,7 @@
     };
 </script>
 
+<h1>Day 1 - Naughty or Nice</h1>
 <form>
     <div>
         <label for="name">Name</label>
